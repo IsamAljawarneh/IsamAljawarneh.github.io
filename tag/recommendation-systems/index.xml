@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recommendation systems | Isam Al Jawarneh</title>
+    <link>https://IsamAljawarneh.github.io/tag/recommendation-systems/</link>
+      <atom:link href="https://IsamAljawarneh.github.io/tag/recommendation-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>recommendation systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Isam Al Jawarneh</copyright><lastBuildDate>Mon, 14 Jun 2021 22:50:00 +0000</lastBuildDate>
+    <image>
+      <url>https://IsamAljawarneh.github.io/media/icon_hud73ee2a58f6e166f5506c1763554804d_135107_512x512_fill_lanczos_center_3.png</url>
+      <title>recommendation systems</title>
+      <link>https://IsamAljawarneh.github.io/tag/recommendation-systems/</link>
+    </image>
+    
+    <item>
+      <title>Context Incorporation Techniques for Social Recommender Systems</title>
+      <link>https://IsamAljawarneh.github.io/publication/icc2021/</link>
+      <pubDate>Mon, 14 Jun 2021 22:50:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/icc2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to export or download the citations.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CA-NCF</title>
+      <link>https://IsamAljawarneh.github.io/project/ca-ncf/</link>
+      <pubDate>Mon, 14 Jun 2021 22:10:15 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/ca-ncf/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Depending on the Internet as the main source of information regarding all aspects of our life is becoming a trend.
+&lt;ul&gt;
+&lt;li&gt;People seek relevant information, suggestions, and recommendations in an overloaded online world and through social ties regarding their daily activities, including places to visit and restaurants to try new food.&lt;/li&gt;
+&lt;li&gt;The wide variety of choices that are available online causes information overloading, which thereby complicates the selection process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Traditional &lt;code&gt;recommender systems&lt;/code&gt; are mostly dependent on a conventional model that is based on user-item-rating interaction without considering contextual information.&lt;/li&gt;
+&lt;li&gt;We claim that new generations of recommendation systems able to exploit context in an innovative and efficient way is important and may statistically yield more significant rating predictions.&lt;/li&gt;
+&lt;li&gt;However, only few research works have focused on how to effectively and efficiently exploit context metadata in Deep Learning (DL)-based recommendations.
+&lt;ul&gt;
+&lt;li&gt;The main reason lies, perhaps most significantly, in the fact that most current DL algorithms are not intrinsically designed to incorporate contextual tags.
+In this project, we provide a significant contribution for filling this gap by designing a hybrid algorithm that retrofits and repurposes a pre-filtering contextual incorporation method and feeds the new dimension to a DL-based neural collaborative filtering method, thus preserving and recovering the benefits of both without their limitations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Quantitative results show that our method outperforms the baselines by statistically significant margins.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publications&lt;/strong&gt;: &lt;a href=&#34;https://IsamAljawarneh.github.io/publication/ca-ncf/&#34;&gt;IEEE Access Journal&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>US-NCF</title>
+      <link>https://IsamAljawarneh.github.io/project/us-ncf/</link>
+      <pubDate>Mon, 14 Jun 2021 22:10:15 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/us-ncf/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The problem of &lt;code&gt;information overloading&lt;/code&gt; is prevalent in recommendations websites and &lt;code&gt;social networks&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Users seek relevant recommendations from like-minded connections. User-item interactions (i.e., ratings) are prevalent in recommendation websites such as Netflix, whereas user-user connections are the interaction sought in social websites such as Twitter.&lt;/li&gt;
+&lt;li&gt;Social recommender systems seek to generate recommendations for users based on similar preferences of their close friends.&lt;/li&gt;
+&lt;li&gt;Because social networks do not normally contain user-item interactions, &lt;code&gt;social recommender systems&lt;/code&gt; are typically hybridized with other recommenders (e.g., website recommenders such as Netflix) that provide such interaction.
+&lt;ul&gt;
+&lt;li&gt;However, current systems are unaware of the user’s additional &lt;code&gt;contextual information&lt;/code&gt; when coupled with &lt;code&gt;social&lt;/code&gt; counterparts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;US-NCF is a &lt;code&gt;context-aware deep learning-based recommender system&lt;/code&gt;, in support for social recommender systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publications&lt;/strong&gt;: &lt;a href=&#34;https://IsamAljawarneh.github.io/publication/icc2021/&#34;&gt;IEEE ICC 2021&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A pre-filtering approach for incorporating contextual information into deep learning based recommender systems</title>
+      <link>https://IsamAljawarneh.github.io/publication/ca-ncf/</link>
+      <pubDate>Thu, 20 Feb 2020 19:52:29 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/ca-ncf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

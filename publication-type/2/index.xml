@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Isam Al Jawarneh</title>
+    <link>https://IsamAljawarneh.github.io/publication-type/2/</link>
+      <atom:link href="https://IsamAljawarneh.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Isam Al Jawarneh</copyright><lastBuildDate>Sun, 06 Jun 2021 21:50:00 +0000</lastBuildDate>
+    <image>
+      <url>https://IsamAljawarneh.github.io/media/icon_hud73ee2a58f6e166f5506c1763554804d_135107_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://IsamAljawarneh.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>QoS-Aware Approximate Query Processing for Smart Cities Spatial Data Streams</title>
+      <link>https://IsamAljawarneh.github.io/publication/sensors2021/</link>
+      <pubDate>Sun, 06 Jun 2021 21:50:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/sensors2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to export or download the citations.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://github.com/IsamAljawarneh/ApproximateStream&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient QoS-Aware Spatial Join Processing for Scalable NoSQL Storage Frameworks</title>
+      <link>https://IsamAljawarneh.github.io/publication/ieeetransactions/</link>
+      <pubDate>Tue, 27 Oct 2020 19:23:35 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/ieeetransactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Spatial Data Management for the Internet of Things: A Survey</title>
+      <link>https://IsamAljawarneh.github.io/publication/survey/</link>
+      <pubDate>Tue, 23 Jun 2020 19:27:01 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pre-filtering approach for incorporating contextual information into deep learning based recommender systems</title>
+      <link>https://IsamAljawarneh.github.io/publication/ca-ncf/</link>
+      <pubDate>Thu, 20 Feb 2020 19:52:29 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/ca-ncf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a data warehouse model for decision support at higher education A case study</title>
+      <link>https://IsamAljawarneh.github.io/publication/datawarehouse/</link>
+      <pubDate>Tue, 08 Dec 2015 18:36:23 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/datawarehouse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

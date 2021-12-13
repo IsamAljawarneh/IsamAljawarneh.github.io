@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Isam Al Jawarneh</title>
+    <link>https://IsamAljawarneh.github.io/event/</link>
+      <atom:link href="https://IsamAljawarneh.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Isam Al Jawarneh</copyright><lastBuildDate>Mon, 25 Oct 2021 10:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://IsamAljawarneh.github.io/media/icon_hud73ee2a58f6e166f5506c1763554804d_135107_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://IsamAljawarneh.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Efficiently Integrating Mobility and Environment Data for Climate Change Analytics</title>
+      <link>https://IsamAljawarneh.github.io/talk/efficiently-integrating-mobility-and-environment-data-for-climate-change-analytics/</link>
+      <pubDate>Mon, 25 Oct 2021 10:30:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/talk/efficiently-integrating-mobility-and-environment-data-for-climate-change-analytics/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This is part of a project funded by Microsoft &lt;mark&gt;&lt;code&gt;AI for Earth&lt;/code&gt;&lt;/mark&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud-based Geospatial open systems for mitigating climate change research directions, challenges, and future perspectives</title>
+      <link>https://IsamAljawarneh.github.io/talk/cloud-based-geospatial-open-systems-for-mitigating-climate-change-research-directions-challenges-and-future-perspectives/</link>
+      <pubDate>Thu, 30 Sep 2021 10:30:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/talk/cloud-based-geospatial-open-systems-for-mitigating-climate-change-research-directions-challenges-and-future-perspectives/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;FOSS4G&lt;/strong&gt; is the &lt;code&gt;largest&lt;/code&gt; global gathering for geospatial software. I was invited by &lt;code&gt;Microsoft&lt;/code&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Context Incorporation Techniques for Social Recommender Systems</title>
+      <link>https://IsamAljawarneh.github.io/talk/context-incorporation-techniques-for-social-recommender-systems/</link>
+      <pubDate>Mon, 14 Jun 2021 10:30:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/talk/context-incorporation-techniques-for-social-recommender-systems/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;IEEE ICC&lt;/strong&gt; is a &lt;code&gt;top-tier conference&lt;/code&gt; ranked &lt;mark&gt;&lt;strong&gt;&lt;code&gt;A&lt;/code&gt;&lt;/strong&gt;&lt;/mark&gt; by the &lt;a href=&#34;https://scie.lcc.uma.es:8443/gii-grin-scie-rating/&#34;&gt;gii-grin-scie&lt;/a&gt; initiative, and ranked &lt;mark&gt;&lt;code&gt;B&lt;/code&gt;&lt;/mark&gt; by &lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34;&gt;CORE&lt;/a&gt; .
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;mark&gt;gii-grin-scie&lt;/mark&gt;: GII (Group of Italian Professors of Computer Engineering), GRIN (Group of Italian Professors of Computer Science), and SCIE (Spanish Computer-Science Society)&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;mark&gt;CORE&lt;/mark&gt;: The Computing Research and Education Association of Australasia&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Locality-Preserving Spatial Partitioning for Geo Big Data Analytics in Main Memory Frameworks</title>
+      <link>https://IsamAljawarneh.github.io/talk/locality-preserving-spatial-partitioning-for-geo-big-data-analytics-in-main-memory-frameworks/</link>
+      <pubDate>Mon, 07 Dec 2020 10:30:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/talk/locality-preserving-spatial-partitioning-for-geo-big-data-analytics-in-main-memory-frameworks/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;IEEE GLOBECOM&lt;/strong&gt; is a &lt;code&gt;top-tier conference&lt;/code&gt; ranked &lt;mark&gt;&lt;strong&gt;&lt;code&gt;A-&lt;/code&gt;&lt;/strong&gt;&lt;/mark&gt; by the &lt;a href=&#34;https://scie.lcc.uma.es:8443/gii-grin-scie-rating/&#34;&gt;gii-grin-scie&lt;/a&gt; initiative, and ranked &lt;mark&gt;&lt;code&gt;B&lt;/code&gt;&lt;/mark&gt; by &lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34;&gt;CORE&lt;/a&gt; .
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;mark&gt;gii-grin-scie&lt;/mark&gt;: GII (Group of Italian Professors of Computer Engineering), GRIN (Group of Italian Professors of Computer Science), and SCIE (Spanish Computer-Science Society)&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;mark&gt;CORE&lt;/mark&gt;: The Computing Research and Education Association of Australasia&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatially Representative Online Big Data Sampling for Smart Cities</title>
+      <link>https://IsamAljawarneh.github.io/talk/spatially-representative-online-big-data-sampling-for-smart-cities/</link>
+      <pubDate>Mon, 14 Sep 2020 10:30:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/talk/spatially-representative-online-big-data-sampling-for-smart-cities/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

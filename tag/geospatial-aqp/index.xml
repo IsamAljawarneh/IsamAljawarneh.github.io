@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geospatial AQP | Isam Al Jawarneh</title>
+    <link>https://IsamAljawarneh.github.io/tag/geospatial-aqp/</link>
+      <atom:link href="https://IsamAljawarneh.github.io/tag/geospatial-aqp/index.xml" rel="self" type="application/rss+xml" />
+    <description>geospatial AQP</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Isam Al Jawarneh</copyright><lastBuildDate>Thu, 25 Nov 2021 21:42:21 +0000</lastBuildDate>
+    <image>
+      <url>https://IsamAljawarneh.github.io/media/icon_hud73ee2a58f6e166f5506c1763554804d_135107_512x512_fill_lanczos_center_3.png</url>
+      <title>geospatial AQP</title>
+      <link>https://IsamAljawarneh.github.io/tag/geospatial-aqp/</link>
+    </image>
+    
+    <item>
+      <title>ApproxSSPS</title>
+      <link>https://IsamAljawarneh.github.io/project/spatialapprox/</link>
+      <pubDate>Thu, 25 Nov 2021 21:42:21 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/spatialapprox/</guid>
+      <description>&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ApproxSSPS&lt;/code&gt; ia a system for approximate processing of geo-referenced mobility data, at scale with quality of service guarantees.&lt;/li&gt;
+&lt;li&gt;It specifically focuses on stateful aggregations (e.g., means, counts) and top-N queries.&lt;/li&gt;
+&lt;li&gt;Also, it features a controller that interactively learns the latency statistics and calculates proper sampling rates to meet latency or/and accuracy targets.&lt;/li&gt;
+&lt;li&gt;An overarching trait of &lt;code&gt;ApproxSSPS&lt;/code&gt; is its ability to strike a plausible balance between latency and accuracy targets.&lt;/li&gt;
+&lt;li&gt;We evaluate &lt;code&gt;ApproxSSPS&lt;/code&gt; on Apache Spark Structured Streaming with real mobility data.&lt;/li&gt;
+&lt;li&gt;We also compared &lt;code&gt;ApproxSSPS&lt;/code&gt; against a state-of-the-art online adaptive processing system.
+&lt;ul&gt;
+&lt;li&gt;Our extensive experiments prove that &lt;code&gt;ApproxSSPS&lt;/code&gt; can fulfill latency and accuracy targets with varying sets of parameter configurations and load intensities (i.e., transient peaks in data loads versus slow ar-riving streams).&lt;/li&gt;
+&lt;li&gt;Moreover, our results show that ApproxSSPS outperforms the baseline counterpart by significant magnitudes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;In short, &lt;code&gt;ApproxSSPS&lt;/code&gt; is a novel spatial data stream processing system that can deliver real accurate results in a timely manner, by dynamically specifying the limits on data samples.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publication:&lt;/strong&gt; &lt;a href=&#34;https://IsamAljawarneh.github.io/publication/sensors2021/&#34;&gt;MDPI Sensors 2021&lt;/a&gt;  (journal impact factor (indexed in &lt;em&gt;ISI Thomson Reuters&lt;/em&gt;): 3.576)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SpatialSPE</title>
+      <link>https://IsamAljawarneh.github.io/project/spatialspe/</link>
+      <pubDate>Thu, 25 Nov 2021 21:42:21 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/spatialspe/</guid>
+      <description>&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SpatialSPE&lt;/code&gt; accepts a continuous query and QoS budgets (expressed as latency and accuracy targets) and employs our spatial-aware sampling method (that we dub as SAOS, which is an integral part of &lt;code&gt;SpatialSPE&lt;/code&gt;) to select an appropriate sample,&lt;/li&gt;
+&lt;li&gt;then it computes an approximate answer and serves it to the user incrementally, together with rigorous error bounds.&lt;/li&gt;
+&lt;li&gt;We have implemented &lt;code&gt;SpatialSPE&lt;/code&gt; on top of Spark Structured Streaming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publication:&lt;/strong&gt; &lt;a href=&#34;https://IsamAljawarneh.github.io/publication/camad2020/&#34;&gt;IEEE CAMAD2020&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://IsamAljawarneh.github.io/publication/globecom2019/&#34;&gt;IEEE GLOBECOM2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deploying &amp; Running Approximate Geospatial Query Processing at Scale on Microsoft Azure HDInsights</title>
+      <link>https://IsamAljawarneh.github.io/post/getting-started/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;mark&gt;&lt;strong&gt;This tutorial shows an example of how to run an approximate geospatial stream processing application on an Azure HDInsights cluster deployed with Apache Spark and Kafka&lt;/strong&gt;&lt;/mark&gt;
+&lt;ul&gt;
+&lt;li&gt;you will learn how to:&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; create Azure HDInsight clusters deployed with Apache Spark &amp;amp; Kafka.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; run an example dynamic application scenario common in smart city applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microsoft Azure subscription.&lt;/li&gt;
+&lt;li&gt;basic knowledge of Jupyter Notebooks.&lt;/li&gt;
+&lt;li&gt;basic knowledge of Scala programming language.&lt;/li&gt;
+&lt;li&gt;basic knolwedge of Kafka topics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Microsoft Azure Spark and Kafka HDInsight clusters need to be deployed within the same virtual network.
+This tutorial exploits a template for this purpose. This allows the Spark cluster to communicate directly with Kafka.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;-click-here-to-continue-reading-the-full-tutorial-httpsisamaljawarnehgithubioapproximatestream&#34;&gt;&lt;a href=&#34;https://isamaljawarneh.github.io/ApproximateStream/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📓 Click here to continue reading the full &lt;code&gt;tutorial&lt;/code&gt; 📓&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&#34;the-challenge&#34;&gt;The challenge&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Large amounts of georeferenced data streams arrive daily to stream processing systems.
+&lt;ul&gt;
+&lt;li&gt;This is attributable to the overabundance of affordable IoT devices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Interested practitioners desire to exploit Internet of Things (IoT) data streams for strategic decision-making
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;However&lt;/code&gt;, mobility data are &lt;code&gt;highly skewed&lt;/code&gt; and their &lt;code&gt;arrival rates fluctuate&lt;/code&gt;. This nature poses an extra challenge on data stream processing systems, which are required in order to achieve pre-specified latency and accuracy goals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Approximate Query Processing (AQP) over massively-arriving streams of geospatial data is becoming essential.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-solution&#34;&gt;The solution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In this post, I will show you how to easily deploy and run an interactive QoS-aware framework in 
+  &lt;i class=&#34;fab fa-microsoft  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Microsoft Azure, for performing AQP  approximate processing of geo-referenced mobility data, at scale with quality of service guarantees.
+&lt;ul&gt;
+&lt;li&gt;We will focus on stateful aggregations (e.g., &lt;code&gt;means&lt;/code&gt;, &lt;code&gt;counts&lt;/code&gt;) and &lt;code&gt;top-N&lt;/code&gt; queries.&lt;/li&gt;
+&lt;li&gt;The example code has the ability to strike a plausible balance between latency and accuracy targets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The deployment includes Apache Spark Structured Streaming and Apcahe Kafka communicating directly within the premises of a virtual network.&lt;/li&gt;
+&lt;li&gt;In short, geospatial AQP is esential for dynamic application scenarios prevalent in smart cities and urban informatics. The example we show in this post can deliver real accurate results in a timely manner, by employing a qualified QoS-aware geospatial startified-like online sampling method that we have designed.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QoS-Aware Approximate Query Processing for Smart Cities Spatial Data Streams</title>
+      <link>https://IsamAljawarneh.github.io/publication/sensors2021/</link>
+      <pubDate>Sun, 06 Jun 2021 21:50:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/sensors2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to export or download the citations.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://github.com/IsamAljawarneh/ApproximateStream&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Locality-Preserving Spatial Partitioning for Geo Big Data Analytics in Main Memory Frameworks</title>
+      <link>https://IsamAljawarneh.github.io/publication/globecom2020/</link>
+      <pubDate>Mon, 07 Dec 2020 18:18:17 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/globecom2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially Representative Online Big Data Sampling for Smart Cities</title>
+      <link>https://IsamAljawarneh.github.io/publication/camad2020/</link>
+      <pubDate>Mon, 14 Sep 2020 18:29:58 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/camad2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-aware approximate big data stream processing</title>
+      <link>https://IsamAljawarneh.github.io/publication/globecom2019/</link>
+      <pubDate>Mon, 09 Dec 2019 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/globecom2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpatialSSJP</title>
+      <link>https://IsamAljawarneh.github.io/project/spatialssjp/</link>
+      <pubDate>Thu, 01 Nov 2018 21:42:21 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/spatialssjp/</guid>
+      <description>&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SpatialSSJP&lt;/code&gt; is a QoS-aware adaptive stream-static &lt;code&gt;join processor&lt;/code&gt; that exploits a custom &lt;code&gt;geospatial online sampling&lt;/code&gt; method for selecting proportionate sampling fraction through the application of an embedded rate controller and serve it to SAOS using a &lt;code&gt;feedback loop mechanism&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;SpatialSSJP is an &lt;code&gt;approximation&lt;/code&gt; framework that is designed to efficiently tradeoff miniscule error-bounded accuracy for low-latency, thereby assisting SpatialDSMS to survive during brutal burst spikes in data arrival rates.
+&lt;ul&gt;
+&lt;li&gt;SpatialSSJP achieves that in a &lt;code&gt;circadian rhythm&lt;/code&gt; without counteracting the benifits of its controller&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publication:&lt;/strong&gt; &lt;a href=&#34;&#34;&gt;Manuscript submitted to an IEEE Transactions journal&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

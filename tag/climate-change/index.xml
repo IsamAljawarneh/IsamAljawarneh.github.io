@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>climate change | Isam Al Jawarneh</title>
+    <link>https://IsamAljawarneh.github.io/tag/climate-change/</link>
+      <atom:link href="https://IsamAljawarneh.github.io/tag/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    <description>climate change</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Isam Al Jawarneh</copyright><lastBuildDate>Mon, 01 Nov 2021 21:42:21 +0000</lastBuildDate>
+    <image>
+      <url>https://IsamAljawarneh.github.io/media/icon_hud73ee2a58f6e166f5506c1763554804d_135107_512x512_fill_lanczos_center_3.png</url>
+      <title>climate change</title>
+      <link>https://IsamAljawarneh.github.io/tag/climate-change/</link>
+    </image>
+    
+    <item>
+      <title>MeteoMobil</title>
+      <link>https://IsamAljawarneh.github.io/project/meteomobil/</link>
+      <pubDate>Mon, 01 Nov 2021 21:42:21 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/meteomobil/</guid>
+      <description>&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Recent research is focusing extensively on building Cloud-based open-source solutions for big geospatial data analytics in the Cloud.&lt;/li&gt;
+&lt;li&gt;Avalanches of georeferenced mobility (human, vehicles, etc.,) and micro-blogging data (e.g., tweets) are being collected and processed daily.
+&lt;ul&gt;
+&lt;li&gt;However, mobility data alone is not enough to unleash the opportunities for insightful analytics that may assist in mitigating the adverse effects of climate change.&lt;/li&gt;
+&lt;li&gt;For example, answering complex queries such as follows: “what are the Top-3 neighborhoods (districts, boroughs, etc.,) in Buenos Aires in Argentina in terms of vehicle mobility where the index of Particulate Matters (PM10) air-borne pollutant is greater than 40”.&lt;/li&gt;
+&lt;li&gt;Similar queries are necessary for emergent health-aware smart city policies.
+&lt;ul&gt;
+&lt;li&gt;For example, they can provide insights to municipality administrators so that they foster the design of future city infrastructure plans that feature citizen health as a priority.&lt;/li&gt;
+&lt;li&gt;For example, by restricting the number of vehicles accessing highly-polluted areas of the city during peak hours.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Also, such information can be used to build mobile interactive maps for daily dwellers so that to inform them which routes to avoid passing-through during specific hours of a day to avoid being subjected to high-levels of vehicle-caused air-borne pollutants (such as PM10).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;However, answering such a query would require joining real-time mobility and environment (e.g., meteorological) data.&lt;/li&gt;
+&lt;li&gt;Stock versions of the current Cloud-based open-source geospatial management systems do not include intrinsic solutions for such scenarios.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;MeteoMobil&lt;/code&gt; is a system for the combined analytics of integrated information representing mobility and environment conditions.&lt;/li&gt;
+&lt;li&gt;We have implemented our system atop Apache Spark for efficient operation over the Cloud.&lt;/li&gt;
+&lt;li&gt;We have tested the system and shown its capabilities in supporting climate change analytics.
+&lt;ul&gt;
+&lt;li&gt;Our results show that MeteoMobil can be efficiently exploited for advanced climate change analytics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publication:&lt;/strong&gt; &lt;a href=&#34;&#34;&gt;presented at IEEE CAMAD 2021, To Appear&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

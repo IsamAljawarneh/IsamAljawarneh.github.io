@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data warehousing | Isam Al Jawarneh</title>
+    <link>https://IsamAljawarneh.github.io/tag/data-warehousing/</link>
+      <atom:link href="https://IsamAljawarneh.github.io/tag/data-warehousing/index.xml" rel="self" type="application/rss+xml" />
+    <description>data warehousing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Isam Al Jawarneh</copyright><lastBuildDate>Fri, 01 Nov 2019 21:42:21 +0000</lastBuildDate>
+    <image>
+      <url>https://IsamAljawarneh.github.io/media/icon_hud73ee2a58f6e166f5506c1763554804d_135107_512x512_fill_lanczos_center_3.png</url>
+      <title>data warehousing</title>
+      <link>https://IsamAljawarneh.github.io/tag/data-warehousing/</link>
+    </image>
+    
+    <item>
+      <title>SACHER MuSE CH</title>
+      <link>https://IsamAljawarneh.github.io/project/sacher/</link>
+      <pubDate>Fri, 01 Nov 2019 21:42:21 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/sacher/</guid>
+      <description>&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;SACHER Multidimensional Search Engine for Cultural Heritage service (&lt;code&gt;SACHER MuSE CH&lt;/code&gt;) is an integral component of &lt;a href=&#34;http://www.eng.sacherproject.com/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SACHER&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;It is an advanced multi-dimensional search system for cultural heritage (CH) data coming from heterogeneous sources.&lt;/li&gt;
+&lt;li&gt;Aiming at providing a unified view for heterogeneous CH data, we have designed a set of Extract, Transform and Load (ETL) workflows that extract data from various CH providers (for example, IBC and WebGIS in Italy) in various formats (MySQL, flat files and RDFs).
+&lt;ul&gt;
+&lt;li&gt;These data are thereafter feeded into a central data lake repository.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The crucial feature of the MuSE service is that it offers an umbrella that covers data in all possible formats, thus providing a baseline for all kind of analytics for all levels of users, including transactional, executive and administrative users.
+&lt;ul&gt;
+&lt;li&gt;Most significantly is the MuSE ability to do multidimensional analytics that enables decision makers who are working in the CH sector to make strategic decisions regarding CH restoration projects, including decisions regarding human power and funding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publication:&lt;/strong&gt; &lt;a href=&#34;https://iris.unimore.it/retrieve/handle/11380/1169296/208313/SACHER_Project.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Goodtechs 2018&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SACHER Project A cloud platform and integrated services for cultural heritage and for restoration</title>
+      <link>https://IsamAljawarneh.github.io/publication/sacher/</link>
+      <pubDate>Wed, 28 Nov 2018 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/sacher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a data warehouse model for decision support at higher education A case study</title>
+      <link>https://IsamAljawarneh.github.io/publication/datawarehouse/</link>
+      <pubDate>Tue, 08 Dec 2015 18:36:23 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/datawarehouse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

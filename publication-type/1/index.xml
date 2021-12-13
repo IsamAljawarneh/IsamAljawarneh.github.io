@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Isam Al Jawarneh</title>
+    <link>https://IsamAljawarneh.github.io/publication-type/1/</link>
+      <atom:link href="https://IsamAljawarneh.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Isam Al Jawarneh</copyright><lastBuildDate>Mon, 14 Jun 2021 22:50:00 +0000</lastBuildDate>
+    <image>
+      <url>https://IsamAljawarneh.github.io/media/icon_hud73ee2a58f6e166f5506c1763554804d_135107_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://IsamAljawarneh.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Context Incorporation Techniques for Social Recommender Systems</title>
+      <link>https://IsamAljawarneh.github.io/publication/icc2021/</link>
+      <pubDate>Mon, 14 Jun 2021 22:50:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/icc2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to export or download the citations.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Locality-Preserving Spatial Partitioning for Geo Big Data Analytics in Main Memory Frameworks</title>
+      <link>https://IsamAljawarneh.github.io/publication/globecom2020/</link>
+      <pubDate>Mon, 07 Dec 2020 18:18:17 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/globecom2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially Representative Online Big Data Sampling for Smart Cities</title>
+      <link>https://IsamAljawarneh.github.io/publication/camad2020/</link>
+      <pubDate>Mon, 14 Sep 2020 18:29:58 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/camad2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-aware approximate big data stream processing</title>
+      <link>https://IsamAljawarneh.github.io/publication/globecom2019/</link>
+      <pubDate>Mon, 09 Dec 2019 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/globecom2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Container orchestration engines: A thorough functional and performance comparison</title>
+      <link>https://IsamAljawarneh.github.io/publication/icc2019/</link>
+      <pubDate>Mon, 20 May 2019 21:41:50 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/icc2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qos and performance metrics for container-based virtualization in cloud environments</title>
+      <link>https://IsamAljawarneh.github.io/publication/icdcn2019/</link>
+      <pubDate>Fri, 04 Jan 2019 22:46:04 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/icdcn2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SACHER Project A cloud platform and integrated services for cultural heritage and for restoration</title>
+      <link>https://IsamAljawarneh.github.io/publication/sacher/</link>
+      <pubDate>Wed, 28 Nov 2018 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/sacher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-memory spatial-aware framework for processing proximity-alike queries in big spatial data</title>
+      <link>https://IsamAljawarneh.github.io/publication/camad2018/</link>
+      <pubDate>Mon, 17 Sep 2018 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/camad2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-effective strategies for provisioning NoSQL storage services in support for industry 4.0</title>
+      <link>https://IsamAljawarneh.github.io/publication/iscc2018/</link>
+      <pubDate>Mon, 25 Jun 2018 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/iscc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient spark-based framework for big geospatial data query processing and analysis</title>
+      <link>https://IsamAljawarneh.github.io/publication/iscc2017/</link>
+      <pubDate>Mon, 03 Jul 2017 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/iscc2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic identification of participatory mobile health communities</title>
+      <link>https://IsamAljawarneh.github.io/publication/dynamic-identification/</link>
+      <pubDate>Thu, 20 Apr 2017 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/dynamic-identification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unibo | Isam Al Jawarneh</title>
+    <link>https://IsamAljawarneh.github.io/tag/unibo/</link>
+      <atom:link href="https://IsamAljawarneh.github.io/tag/unibo/index.xml" rel="self" type="application/rss+xml" />
+    <description>unibo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Isam Al Jawarneh</copyright><lastBuildDate>Thu, 25 Nov 2021 21:42:21 +0000</lastBuildDate>
+    <image>
+      <url>https://IsamAljawarneh.github.io/media/icon_hud73ee2a58f6e166f5506c1763554804d_135107_512x512_fill_lanczos_center_3.png</url>
+      <title>unibo</title>
+      <link>https://IsamAljawarneh.github.io/tag/unibo/</link>
+    </image>
+    
+    <item>
+      <title>ApproxSSPS</title>
+      <link>https://IsamAljawarneh.github.io/project/spatialapprox/</link>
+      <pubDate>Thu, 25 Nov 2021 21:42:21 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/spatialapprox/</guid>
+      <description>&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ApproxSSPS&lt;/code&gt; ia a system for approximate processing of geo-referenced mobility data, at scale with quality of service guarantees.&lt;/li&gt;
+&lt;li&gt;It specifically focuses on stateful aggregations (e.g., means, counts) and top-N queries.&lt;/li&gt;
+&lt;li&gt;Also, it features a controller that interactively learns the latency statistics and calculates proper sampling rates to meet latency or/and accuracy targets.&lt;/li&gt;
+&lt;li&gt;An overarching trait of &lt;code&gt;ApproxSSPS&lt;/code&gt; is its ability to strike a plausible balance between latency and accuracy targets.&lt;/li&gt;
+&lt;li&gt;We evaluate &lt;code&gt;ApproxSSPS&lt;/code&gt; on Apache Spark Structured Streaming with real mobility data.&lt;/li&gt;
+&lt;li&gt;We also compared &lt;code&gt;ApproxSSPS&lt;/code&gt; against a state-of-the-art online adaptive processing system.
+&lt;ul&gt;
+&lt;li&gt;Our extensive experiments prove that &lt;code&gt;ApproxSSPS&lt;/code&gt; can fulfill latency and accuracy targets with varying sets of parameter configurations and load intensities (i.e., transient peaks in data loads versus slow ar-riving streams).&lt;/li&gt;
+&lt;li&gt;Moreover, our results show that ApproxSSPS outperforms the baseline counterpart by significant magnitudes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;In short, &lt;code&gt;ApproxSSPS&lt;/code&gt; is a novel spatial data stream processing system that can deliver real accurate results in a timely manner, by dynamically specifying the limits on data samples.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publication:&lt;/strong&gt; &lt;a href=&#34;https://IsamAljawarneh.github.io/publication/sensors2021/&#34;&gt;MDPI Sensors 2021&lt;/a&gt;  (journal impact factor (indexed in &lt;em&gt;ISI Thomson Reuters&lt;/em&gt;): 3.576)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SpatialSPE</title>
+      <link>https://IsamAljawarneh.github.io/project/spatialspe/</link>
+      <pubDate>Thu, 25 Nov 2021 21:42:21 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/spatialspe/</guid>
+      <description>&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SpatialSPE&lt;/code&gt; accepts a continuous query and QoS budgets (expressed as latency and accuracy targets) and employs our spatial-aware sampling method (that we dub as SAOS, which is an integral part of &lt;code&gt;SpatialSPE&lt;/code&gt;) to select an appropriate sample,&lt;/li&gt;
+&lt;li&gt;then it computes an approximate answer and serves it to the user incrementally, together with rigorous error bounds.&lt;/li&gt;
+&lt;li&gt;We have implemented &lt;code&gt;SpatialSPE&lt;/code&gt; on top of Spark Structured Streaming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publication:&lt;/strong&gt; &lt;a href=&#34;https://IsamAljawarneh.github.io/publication/camad2020/&#34;&gt;IEEE CAMAD2020&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://IsamAljawarneh.github.io/publication/globecom2019/&#34;&gt;IEEE GLOBECOM2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MeteoMobil</title>
+      <link>https://IsamAljawarneh.github.io/project/meteomobil/</link>
+      <pubDate>Mon, 01 Nov 2021 21:42:21 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/meteomobil/</guid>
+      <description>&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Recent research is focusing extensively on building Cloud-based open-source solutions for big geospatial data analytics in the Cloud.&lt;/li&gt;
+&lt;li&gt;Avalanches of georeferenced mobility (human, vehicles, etc.,) and micro-blogging data (e.g., tweets) are being collected and processed daily.
+&lt;ul&gt;
+&lt;li&gt;However, mobility data alone is not enough to unleash the opportunities for insightful analytics that may assist in mitigating the adverse effects of climate change.&lt;/li&gt;
+&lt;li&gt;For example, answering complex queries such as follows: “what are the Top-3 neighborhoods (districts, boroughs, etc.,) in Buenos Aires in Argentina in terms of vehicle mobility where the index of Particulate Matters (PM10) air-borne pollutant is greater than 40”.&lt;/li&gt;
+&lt;li&gt;Similar queries are necessary for emergent health-aware smart city policies.
+&lt;ul&gt;
+&lt;li&gt;For example, they can provide insights to municipality administrators so that they foster the design of future city infrastructure plans that feature citizen health as a priority.&lt;/li&gt;
+&lt;li&gt;For example, by restricting the number of vehicles accessing highly-polluted areas of the city during peak hours.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Also, such information can be used to build mobile interactive maps for daily dwellers so that to inform them which routes to avoid passing-through during specific hours of a day to avoid being subjected to high-levels of vehicle-caused air-borne pollutants (such as PM10).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;However, answering such a query would require joining real-time mobility and environment (e.g., meteorological) data.&lt;/li&gt;
+&lt;li&gt;Stock versions of the current Cloud-based open-source geospatial management systems do not include intrinsic solutions for such scenarios.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;MeteoMobil&lt;/code&gt; is a system for the combined analytics of integrated information representing mobility and environment conditions.&lt;/li&gt;
+&lt;li&gt;We have implemented our system atop Apache Spark for efficient operation over the Cloud.&lt;/li&gt;
+&lt;li&gt;We have tested the system and shown its capabilities in supporting climate change analytics.
+&lt;ul&gt;
+&lt;li&gt;Our results show that MeteoMobil can be efficiently exploited for advanced climate change analytics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publication:&lt;/strong&gt; &lt;a href=&#34;&#34;&gt;presented at IEEE CAMAD 2021, To Appear&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Context Incorporation Techniques for Social Recommender Systems</title>
+      <link>https://IsamAljawarneh.github.io/publication/icc2021/</link>
+      <pubDate>Mon, 14 Jun 2021 22:50:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/icc2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to export or download the citations.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CA-NCF</title>
+      <link>https://IsamAljawarneh.github.io/project/ca-ncf/</link>
+      <pubDate>Mon, 14 Jun 2021 22:10:15 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/ca-ncf/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Depending on the Internet as the main source of information regarding all aspects of our life is becoming a trend.
+&lt;ul&gt;
+&lt;li&gt;People seek relevant information, suggestions, and recommendations in an overloaded online world and through social ties regarding their daily activities, including places to visit and restaurants to try new food.&lt;/li&gt;
+&lt;li&gt;The wide variety of choices that are available online causes information overloading, which thereby complicates the selection process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Traditional &lt;code&gt;recommender systems&lt;/code&gt; are mostly dependent on a conventional model that is based on user-item-rating interaction without considering contextual information.&lt;/li&gt;
+&lt;li&gt;We claim that new generations of recommendation systems able to exploit context in an innovative and efficient way is important and may statistically yield more significant rating predictions.&lt;/li&gt;
+&lt;li&gt;However, only few research works have focused on how to effectively and efficiently exploit context metadata in Deep Learning (DL)-based recommendations.
+&lt;ul&gt;
+&lt;li&gt;The main reason lies, perhaps most significantly, in the fact that most current DL algorithms are not intrinsically designed to incorporate contextual tags.
+In this project, we provide a significant contribution for filling this gap by designing a hybrid algorithm that retrofits and repurposes a pre-filtering contextual incorporation method and feeds the new dimension to a DL-based neural collaborative filtering method, thus preserving and recovering the benefits of both without their limitations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Quantitative results show that our method outperforms the baselines by statistically significant margins.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publications&lt;/strong&gt;: &lt;a href=&#34;https://IsamAljawarneh.github.io/publication/ca-ncf/&#34;&gt;IEEE Access Journal&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>US-NCF</title>
+      <link>https://IsamAljawarneh.github.io/project/us-ncf/</link>
+      <pubDate>Mon, 14 Jun 2021 22:10:15 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/us-ncf/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The problem of &lt;code&gt;information overloading&lt;/code&gt; is prevalent in recommendations websites and &lt;code&gt;social networks&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Users seek relevant recommendations from like-minded connections. User-item interactions (i.e., ratings) are prevalent in recommendation websites such as Netflix, whereas user-user connections are the interaction sought in social websites such as Twitter.&lt;/li&gt;
+&lt;li&gt;Social recommender systems seek to generate recommendations for users based on similar preferences of their close friends.&lt;/li&gt;
+&lt;li&gt;Because social networks do not normally contain user-item interactions, &lt;code&gt;social recommender systems&lt;/code&gt; are typically hybridized with other recommenders (e.g., website recommenders such as Netflix) that provide such interaction.
+&lt;ul&gt;
+&lt;li&gt;However, current systems are unaware of the user’s additional &lt;code&gt;contextual information&lt;/code&gt; when coupled with &lt;code&gt;social&lt;/code&gt; counterparts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;US-NCF is a &lt;code&gt;context-aware deep learning-based recommender system&lt;/code&gt;, in support for social recommender systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publications&lt;/strong&gt;: &lt;a href=&#34;https://IsamAljawarneh.github.io/publication/icc2021/&#34;&gt;IEEE ICC 2021&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QoS-Aware Approximate Query Processing for Smart Cities Spatial Data Streams</title>
+      <link>https://IsamAljawarneh.github.io/publication/sensors2021/</link>
+      <pubDate>Sun, 06 Jun 2021 21:50:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/sensors2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to export or download the citations.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://github.com/IsamAljawarneh/ApproximateStream&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Locality-Preserving Spatial Partitioning for Geo Big Data Analytics in Main Memory Frameworks</title>
+      <link>https://IsamAljawarneh.github.io/publication/globecom2020/</link>
+      <pubDate>Mon, 07 Dec 2020 18:18:17 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/globecom2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient QoS-Aware Spatial Join Processing for Scalable NoSQL Storage Frameworks</title>
+      <link>https://IsamAljawarneh.github.io/publication/ieeetransactions/</link>
+      <pubDate>Tue, 27 Oct 2020 19:23:35 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/ieeetransactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially Representative Online Big Data Sampling for Smart Cities</title>
+      <link>https://IsamAljawarneh.github.io/publication/camad2020/</link>
+      <pubDate>Mon, 14 Sep 2020 18:29:58 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/camad2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Spatial Data Management for the Internet of Things: A Survey</title>
+      <link>https://IsamAljawarneh.github.io/publication/survey/</link>
+      <pubDate>Tue, 23 Jun 2020 19:27:01 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book chapter</title>
+      <link>https://IsamAljawarneh.github.io/publication/book-chapter/</link>
+      <pubDate>Tue, 05 May 2020 18:36:23 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/book-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pre-filtering approach for incorporating contextual information into deep learning based recommender systems</title>
+      <link>https://IsamAljawarneh.github.io/publication/ca-ncf/</link>
+      <pubDate>Thu, 20 Feb 2020 19:52:29 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/ca-ncf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-aware approximate big data stream processing</title>
+      <link>https://IsamAljawarneh.github.io/publication/globecom2019/</link>
+      <pubDate>Mon, 09 Dec 2019 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/globecom2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SACHER MuSE CH</title>
+      <link>https://IsamAljawarneh.github.io/project/sacher/</link>
+      <pubDate>Fri, 01 Nov 2019 21:42:21 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/sacher/</guid>
+      <description>&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;SACHER Multidimensional Search Engine for Cultural Heritage service (&lt;code&gt;SACHER MuSE CH&lt;/code&gt;) is an integral component of &lt;a href=&#34;http://www.eng.sacherproject.com/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SACHER&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;It is an advanced multi-dimensional search system for cultural heritage (CH) data coming from heterogeneous sources.&lt;/li&gt;
+&lt;li&gt;Aiming at providing a unified view for heterogeneous CH data, we have designed a set of Extract, Transform and Load (ETL) workflows that extract data from various CH providers (for example, IBC and WebGIS in Italy) in various formats (MySQL, flat files and RDFs).
+&lt;ul&gt;
+&lt;li&gt;These data are thereafter feeded into a central data lake repository.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The crucial feature of the MuSE service is that it offers an umbrella that covers data in all possible formats, thus providing a baseline for all kind of analytics for all levels of users, including transactional, executive and administrative users.
+&lt;ul&gt;
+&lt;li&gt;Most significantly is the MuSE ability to do multidimensional analytics that enables decision makers who are working in the CH sector to make strategic decisions regarding CH restoration projects, including decisions regarding human power and funding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publication:&lt;/strong&gt; &lt;a href=&#34;https://iris.unimore.it/retrieve/handle/11380/1169296/208313/SACHER_Project.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Goodtechs 2018&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Container orchestration engines: A thorough functional and performance comparison</title>
+      <link>https://IsamAljawarneh.github.io/publication/icc2019/</link>
+      <pubDate>Mon, 20 May 2019 21:41:50 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/icc2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qos and performance metrics for container-based virtualization in cloud environments</title>
+      <link>https://IsamAljawarneh.github.io/publication/icdcn2019/</link>
+      <pubDate>Fri, 04 Jan 2019 22:46:04 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/icdcn2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SACHER Project A cloud platform and integrated services for cultural heritage and for restoration</title>
+      <link>https://IsamAljawarneh.github.io/publication/sacher/</link>
+      <pubDate>Wed, 28 Nov 2018 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/sacher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpatialSSJP</title>
+      <link>https://IsamAljawarneh.github.io/project/spatialssjp/</link>
+      <pubDate>Thu, 01 Nov 2018 21:42:21 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/project/spatialssjp/</guid>
+      <description>&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SpatialSSJP&lt;/code&gt; is a QoS-aware adaptive stream-static &lt;code&gt;join processor&lt;/code&gt; that exploits a custom &lt;code&gt;geospatial online sampling&lt;/code&gt; method for selecting proportionate sampling fraction through the application of an embedded rate controller and serve it to SAOS using a &lt;code&gt;feedback loop mechanism&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;SpatialSSJP is an &lt;code&gt;approximation&lt;/code&gt; framework that is designed to efficiently tradeoff miniscule error-bounded accuracy for low-latency, thereby assisting SpatialDSMS to survive during brutal burst spikes in data arrival rates.
+&lt;ul&gt;
+&lt;li&gt;SpatialSSJP achieves that in a &lt;code&gt;circadian rhythm&lt;/code&gt; without counteracting the benifits of its controller&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;publication:&lt;/strong&gt; &lt;a href=&#34;&#34;&gt;Manuscript submitted to an IEEE Transactions journal&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In-memory spatial-aware framework for processing proximity-alike queries in big spatial data</title>
+      <link>https://IsamAljawarneh.github.io/publication/camad2018/</link>
+      <pubDate>Mon, 17 Sep 2018 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/camad2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-effective strategies for provisioning NoSQL storage services in support for industry 4.0</title>
+      <link>https://IsamAljawarneh.github.io/publication/iscc2018/</link>
+      <pubDate>Mon, 25 Jun 2018 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/iscc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>37085 - Principles, Models and Applications for Distributed Systems M - LAB</title>
+      <link>https://IsamAljawarneh.github.io/teaching/lab-unibo/</link>
+      <pubDate>Sun, 01 Oct 2017 22:10:15 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/teaching/lab-unibo/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;mark&gt;Master degree level course&lt;/mark&gt;
+&lt;p&gt;I  taught the Lab of this course as a &lt;strong&gt;&lt;code&gt;Teaching Asisstant (TA)&lt;/code&gt;&lt;/strong&gt; during 2017/2018 at &lt;a href=&#34;https://www.unibo.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Bologna&lt;/a&gt;. The course covers the Knowledge related to the technologies needed for the management and usage of computer networks and distributed systems.&lt;/p&gt;
+&lt;p style=&#34;color: red&#34;&gt;&lt;mark&gt;Topics of the lab Included:&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;advanced programming topics in Java for designing effective distributed systems, such as multithreading, connected and connectionless socket programming, remote procedure call
+&amp;amp; object invocation, in addition to client server interaction.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;course site&lt;/strong&gt;: &lt;a href=&#34;https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2017/414413&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37085&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;with Prof.&lt;/em&gt; &lt;a href=&#34;http://lia.deis.unibo.it/Staff/MaurelioBoari/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maurelio Boari&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient spark-based framework for big geospatial data query processing and analysis</title>
+      <link>https://IsamAljawarneh.github.io/publication/iscc2017/</link>
+      <pubDate>Mon, 03 Jul 2017 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/iscc2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic identification of participatory mobile health communities</title>
+      <link>https://IsamAljawarneh.github.io/publication/dynamic-identification/</link>
+      <pubDate>Thu, 20 Apr 2017 22:29:31 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/dynamic-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a data warehouse model for decision support at higher education A case study</title>
+      <link>https://IsamAljawarneh.github.io/publication/datawarehouse/</link>
+      <pubDate>Tue, 08 Dec 2015 18:36:23 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/publication/datawarehouse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

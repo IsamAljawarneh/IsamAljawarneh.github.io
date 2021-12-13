@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubt | Isam Al Jawarneh</title>
+    <link>https://IsamAljawarneh.github.io/tag/ubt/</link>
+      <atom:link href="https://IsamAljawarneh.github.io/tag/ubt/index.xml" rel="self" type="application/rss+xml" />
+    <description>ubt</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Isam Al Jawarneh</copyright><lastBuildDate>Fri, 01 Jan 2016 22:10:15 +0000</lastBuildDate>
+    <image>
+      <url>https://IsamAljawarneh.github.io/media/icon_hud73ee2a58f6e166f5506c1763554804d_135107_512x512_fill_lanczos_center_3.png</url>
+      <title>ubt</title>
+      <link>https://IsamAljawarneh.github.io/tag/ubt/</link>
+    </image>
+    
+    <item>
+      <title>COE 201 - Computer Programming 1</title>
+      <link>https://IsamAljawarneh.github.io/teaching/it201/</link>
+      <pubDate>Fri, 01 Jan 2016 22:10:15 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/teaching/it201/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Teaching computer programming concepts and apply them to computer-based problem-solving methods.&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary&gt;Click to view the topics covered&lt;/summary&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Introduction to computers &amp;amp; programming&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Introduction to Java&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;control statements: selection &amp;amp; repitition structures&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;arrays &amp;amp; functions&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    I taught this course for several semesters from 2009 through 2016 at &lt;a href=&#34;https://www.ubt.edu.sa/About/Home&#34;&gt;University of Business and Technology&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT203 Object-Oriented Computer Programming</title>
+      <link>https://IsamAljawarneh.github.io/teaching/it203/</link>
+      <pubDate>Fri, 01 Jan 2016 22:10:15 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/teaching/it203/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Advanced computer programming concepts.&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary&gt;Click to view the topics covered&lt;/summary&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;classes &amp;amp; objects&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inheritance &amp;amp; polymorphism&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;GUI design&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    I taught this course for several semesters from 2009 through 2016 at &lt;a href=&#34;https://www.ubt.edu.sa/About/Home&#34;&gt;University of Business and Technology&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT204 Data Structures &amp; Algorithms</title>
+      <link>https://IsamAljawarneh.github.io/teaching/it204/</link>
+      <pubDate>Fri, 01 Jan 2016 22:10:15 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/teaching/it204/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction to Data Structures and Abstract Data Types (ADT).&lt;/li&gt;
+&lt;li&gt;Analysis of algorithms and the big-O notation.&lt;/li&gt;
+&lt;li&gt;Java Review: arrays, classes, interfaces, exceptions, static and dynamic data allocation, simple I/O, inheritance, polymorphism, casting and generics.&lt;/li&gt;
+&lt;li&gt;Linear structures: Stacks, Queues, Priority queues, Lists, and Sequences (Array and linked).&lt;/li&gt;
+&lt;li&gt;Non-Linear Structures: Trees and Graphs.&lt;/li&gt;
+&lt;li&gt;Searching and sorting algorithms.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;objectives&#34;&gt;Objectives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; To explain the concepts of data structures and Abstract Data Types (ADT).&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; To Apply methods of algorithm’s analysis to assess different algorithms used in various data structures.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; To be able to implement Abstract Data Types (ADT) using JAVA.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; To be able to describe the different methods of sorting and searching.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; To be able to analyze algorithms used for searching and sorting.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; To Write stack and queue applications using ADTs.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; To be able to write efficient searching and sorting algorithms and compare them in terms of complexity and efficiency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;color: red&#34;&gt;Topics&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary&gt;click here to view topics covered&lt;/summary&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Linear Structures: Stacks &amp;amp; Queues&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Linked Structures: Linked Lists&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Non-Linear Data Structures: General Trees &amp;amp; Binary Trees&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Quick-Sort &amp;amp; Selection Sort&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Graphs&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Analysis of Algorithms:The Big-O Notation &amp;amp; time complexity problems&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    I taught this course for several semesters from 2009 through 2016 at &lt;a href=&#34;https://www.ubt.edu.sa/About/Home&#34;&gt;University of Business and Technology&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT240 databases 1</title>
+      <link>https://IsamAljawarneh.github.io/teaching/it240/</link>
+      <pubDate>Fri, 01 Jan 2016 22:10:15 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/teaching/it240/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;This course aims to give students an introduction to the basic concepts of data modeling and database design principles. This course focuses on concepts and methods of building relational models and OO relational models. It also focuses on understanding database models and matching the data with these models. The course covers also the basic rules for the Structured Query Language.&lt;/p&gt;
+&lt;p style=&#34;color: red&#34;&gt;Topics&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary&gt;click here to view topics covered&lt;/summary&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Introduction to database systems&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Data models: relational and object oriented&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Concepts and methods of databases analysis and design&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ER modelling&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;relational algebra &amp;amp; calculations&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Database design&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Indexing and performance tuning&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;SQL&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    I taught this course for several semesters from 2009 through 2016 at &lt;a href=&#34;https://www.ubt.edu.sa/About/Home&#34;&gt;University of Business and Technology&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT251 Software Engineering 1</title>
+      <link>https://IsamAljawarneh.github.io/teaching/it251/</link>
+      <pubDate>Fri, 01 Jan 2016 22:10:15 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/teaching/it251/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Basic concepts and skills required for software engineering. Concepts and skills required to build large scale applications. The course focused on group work and how to gain skills to work as part of a team.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Introduction to software engineering and the distinction between large and small applications and challenges related to the latter.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Software life cycle and its various models.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The basic concepts of project management software and construction of building work teams and management.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Software Analysis concepts: the collection, classification and identification of requirements and building use cases, building: data flow charts, data dictionaries, decision tables and charts, programming models lenses.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Software design concepts: Building modules, software containment, software abstraction, structural design, the serial interface designs.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Writing and testing software and software maintenance and improvement.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Costing time and resources needed to build software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;color: red&#34;&gt;Topics&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary&gt;click here to view topics covered&lt;/summary&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Software processes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Agile software development&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Requirements engineering&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;System modeling&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Architectural design&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Design and Implementation&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Software testing &amp;amp; Evolution&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    I taught this course for several semesters from 2009 through 2016 at &lt;a href=&#34;https://www.ubt.edu.sa/About/Home&#34;&gt;University of Business and Technology&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
