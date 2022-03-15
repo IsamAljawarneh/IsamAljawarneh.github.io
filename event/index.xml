@@ -48,7 +48,12 @@
       <link>https://IsamAljawarneh.github.io/talk/cloud-based-geospatial-open-systems-for-mitigating-climate-change-research-directions-challenges-and-future-perspectives/</link>
       <pubDate>Thu, 30 Sep 2021 10:30:00 +0000</pubDate>
       <guid>https://IsamAljawarneh.github.io/talk/cloud-based-geospatial-open-systems-for-mitigating-climate-change-research-directions-challenges-and-future-perspectives/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/T9_yLj0JyMM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;strong&gt;FOSS4G&lt;/strong&gt; is the &lt;code&gt;largest&lt;/code&gt; global gathering for geospatial software. I was invited by &lt;code&gt;Microsoft&lt;/code&gt;.
   &lt;/div&gt;
@@ -61,7 +66,25 @@
       <link>https://IsamAljawarneh.github.io/talk/context-incorporation-techniques-for-social-recommender-systems/</link>
       <pubDate>Mon, 14 Jun 2021 10:30:00 +0000</pubDate>
       <guid>https://IsamAljawarneh.github.io/talk/context-incorporation-techniques-for-social-recommender-systems/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://IsamAljawarneh.github.io/media/videos/icc2021.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;strong&gt;IEEE ICC&lt;/strong&gt; is a &lt;code&gt;top-tier conference&lt;/code&gt; ranked &lt;mark&gt;&lt;strong&gt;&lt;code&gt;A&lt;/code&gt;&lt;/strong&gt;&lt;/mark&gt; by the &lt;a href=&#34;https://scie.lcc.uma.es:8443/gii-grin-scie-rating/&#34;&gt;gii-grin-scie&lt;/a&gt; initiative, and ranked &lt;mark&gt;&lt;code&gt;B&lt;/code&gt;&lt;/mark&gt; by &lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34;&gt;CORE&lt;/a&gt; .
   &lt;/div&gt;
@@ -82,7 +105,25 @@
       <link>https://IsamAljawarneh.github.io/talk/locality-preserving-spatial-partitioning-for-geo-big-data-analytics-in-main-memory-frameworks/</link>
       <pubDate>Mon, 07 Dec 2020 10:30:00 +0000</pubDate>
       <guid>https://IsamAljawarneh.github.io/talk/locality-preserving-spatial-partitioning-for-geo-big-data-analytics-in-main-memory-frameworks/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://IsamAljawarneh.github.io/media/videos/gc20.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;strong&gt;IEEE GLOBECOM&lt;/strong&gt; is a &lt;code&gt;top-tier conference&lt;/code&gt; ranked &lt;mark&gt;&lt;strong&gt;&lt;code&gt;A-&lt;/code&gt;&lt;/strong&gt;&lt;/mark&gt; by the &lt;a href=&#34;https://scie.lcc.uma.es:8443/gii-grin-scie-rating/&#34;&gt;gii-grin-scie&lt;/a&gt; initiative, and ranked &lt;mark&gt;&lt;code&gt;B&lt;/code&gt;&lt;/mark&gt; by &lt;a href=&#34;http://portal.core.edu.au/conf-ranks/&#34;&gt;CORE&lt;/a&gt; .
   &lt;/div&gt;
@@ -103,7 +144,25 @@
       <link>https://IsamAljawarneh.github.io/talk/spatially-representative-online-big-data-sampling-for-smart-cities/</link>
       <pubDate>Mon, 14 Sep 2020 10:30:00 +0000</pubDate>
       <guid>https://IsamAljawarneh.github.io/talk/spatially-representative-online-big-data-sampling-for-smart-cities/</guid>
-      <description></description>
+      <description>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://IsamAljawarneh.github.io/media/videos/camad20.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
     </item>
     
   </channel>
