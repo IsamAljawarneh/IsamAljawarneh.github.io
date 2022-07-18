@@ -5,12 +5,69 @@
     <link>https://IsamAljawarneh.github.io/</link>
       <atom:link href="https://IsamAljawarneh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Isam Al Jawarneh</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Isam Al Jawarneh</copyright><lastBuildDate>Thu, 25 Nov 2021 21:42:21 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Isam Al Jawarneh</copyright><lastBuildDate>Mon, 18 Jul 2022 09:30:00 +0000</lastBuildDate>
     <image>
       <url>https://IsamAljawarneh.github.io/media/icon_hud73ee2a58f6e166f5506c1763554804d_135107_512x512_fill_lanczos_center_3.png</url>
       <title>Isam Al Jawarneh</title>
       <link>https://IsamAljawarneh.github.io/</link>
     </image>
+    
+    <item>
+      <title>PhD course - Designing Distributed Geospatial Data-Intensive Applications</title>
+      <link>https://IsamAljawarneh.github.io/teaching/phd_2022/</link>
+      <pubDate>Mon, 18 Jul 2022 09:30:00 +0000</pubDate>
+      <guid>https://IsamAljawarneh.github.io/teaching/phd_2022/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;mark&gt;PhD degree level course&lt;/mark&gt;
+&lt;p&gt;I  am co-teaching this PhD course  &lt;strong&gt;&lt;code&gt;in collaboration with Prof. Luca Foschini&lt;/code&gt;&lt;/strong&gt; during 2022 at &lt;a href=&#34;https://www.unibo.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Bologna&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;course-description&#34;&gt;Course Description&lt;/h3&gt;
+&lt;p&gt;With most data arriving from real-world data-intensive problems being geo-referenced, it is becoming indispensable to design distributed geospatial software solutions for the large-scale management of such data. This course brings the foundational knowledge, explaining pivotal aspects pertinent to designing highly efficient distributed geospatial solutions for data-intensive applications. It covers the enabling technologies and architectures in Cloud storage and computing, including programing models (such as MapReduce and SQL-like declarative models) and algorithms from a middleware perspective.&lt;/p&gt;
+&lt;p style=&#34;color: red&#34;&gt;&lt;mark&gt;Schedule&lt;/mark&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Part#&lt;/th&gt;
+&lt;th&gt;Slides&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Part 1: Introduction to distributed data-intensive applications&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://IsamAljawarneh.github.io/uploads/PhD2022/Part1_1.pdf&#34; target=&#34;_blank&#34;&gt;download part1_1 : 18 July 2022&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://IsamAljawarneh.github.io/&#34; target=&#34;_blank&#34;&gt;download part1_2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Part 2: Designing highly efficient geospatial data-intensive solutions&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://IsamAljawarneh.github.io/&#34; target=&#34;_blank&#34;&gt;download&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Part 3: Designing QoS-aware approximate solutions for distributed geo-spatial data-intensive applications&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://IsamAljawarneh.github.io/&#34; target=&#34;_blank&#34;&gt;download&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Part 4: state-of-art relevant papers discussion&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://IsamAljawarneh.github.io/&#34; target=&#34;_blank&#34;&gt;download&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;course site&lt;/strong&gt;: &lt;a href=&#34;&#34;&gt;PhD Course 2022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;in collaboration with Prof.&lt;/em&gt; &lt;a href=&#34;https://www.unibo.it/sitoweb/luca.foschini/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Luca Foschini&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ApproxSSPS</title>
